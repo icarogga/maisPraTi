@@ -1,6 +1,6 @@
 # Lista de Exercícios de JavaScript
 
-Bem-vindo à minha lista de 50 exercícios de JavaScript. E
+Bem-vindo à minha lista de 50 exercícios de JavaScript.
 
 ## Requisitos
 
